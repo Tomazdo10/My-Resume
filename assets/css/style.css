@@ -153,7 +153,7 @@ header {
 }
 /*-------------------------------------Hooveer.css*/
 
-.hvr-sweep-to-bottom::before {
+.hvr-sweep-to-bottom:before {
     background-color: lavender;
     height: 120px;
 }

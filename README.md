@@ -1,4 +1,4 @@
- INTRODUCTION
+INTRODUCTION
 
 USER STORIES
 
@@ -42,7 +42,8 @@ New External User:
  * As a new user i want to be able to download the CV form if needed.
 
 -------------------------------------------------
-
 FEATURES AND WIREFRAMES
+
+
 
  

@@ -15,15 +15,15 @@
 }
 
 .bg-color-work-history {
-    background-color: rgb(18, 162, 172); 
+    background-color: rgb(36, 38, 46); 
 }
 
 .bg-color-contact {
-    background-color: #fff;
+    background-color: rgb(17, 173, 23);
 }
 
 .ui-menu-color-home {
-    background-color: #723601;
+    background-color: #2967c3;
 }
 
 .ui-menu-color-resume {
@@ -32,6 +32,7 @@
 
 .ui-menu-color-contact {
     background-color: rgb(213, 96, 176);
+    background-color: rgb(35, 43, 178);
 }
 
 .ui-menu-color-download {
